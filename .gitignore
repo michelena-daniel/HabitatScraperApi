@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # Environment files
 .env
 /HabitatScraperApi/Data
+/HabitatScraperApi/Data/CsvFiles
